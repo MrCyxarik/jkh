@@ -1,0 +1,201 @@
+* {
+    background-color:rgb(15, 15, 58) ;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+header {
+    padding: auto;
+    margin-left: 122px;
+    margin-right: 122px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    border: 2px;   
+    margin-bottom: 60px;
+}
+
+.logo {
+    width: 249.85px;
+    height: 120px;
+    display: inline-block;
+    
+    padding: 4px;
+}
+.client{
+    display: flex;
+   
+}
+.search {
+    float: right;
+    width: 35px;
+    position: relative;
+    left: 1200px;
+    margin-right: -115px;
+}
+
+.profile{
+    position: relative;
+    left:1350px;
+}
+
+.menu {
+    display:flex;
+    list-style: none;
+    text-align: center;
+    border: 2 px;
+    font-size: 25px;
+    margin-left: 200px;
+}
+.menu li {
+    margin-left: 125px;
+}
+
+.menu li a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+.menu li a:hover {
+    color: #ff0000;
+}
+body{
+    color: #ffffff;
+}
+.Hero{
+
+    width: 1208px;
+    height: 530px;
+    margin-left: 122px;
+}
+.text__1{
+    
+    font-size: 40px;
+    margin-bottom: 51px;
+}
+.text__2{
+    
+    font-size: 25px;
+    margin-bottom: 45px;
+}
+.button{
+    width: 529px;
+    height: 80px;
+    
+    background-color: rgb(68, 97, 228);
+    border: 2px;
+    padding: 22px 56px;
+    font-size: 30px;
+    color: black;
+    margin-bottom: 210px;
+    text-decoration: none;
+}
+.button a{
+    text-decoration: none;
+}
+.best_film{
+    width: 1660px;
+    height: 713px;
+    margin: 200px;
+    
+}
+.best{
+    color: #ffffff;
+    font-size: 50px;
+    padding: auto;
+}
+.more {
+    text-align: right;
+    margin-right: 150px;
+    font-size: 20px;
+    margin-left: 400px;
+    padding-top: 18px;
+}
+.bestf_text {
+    margin-bottom: 46px;
+   display: flex;
+}
+.card {
+    width: 1172px;
+    height: 607px;
+    background-color: rgb(9, 8, 88);
+    text-align: center;
+    box-shadow:0 0 20px #555;
+    border-radius: 20px;
+}
+.top {
+    background-color: rgb(9, 8, 88);
+    text-align: center;
+    margin: 30px auto;
+}
+.button2 {
+    width: 924.67px;
+    height: 60px;
+    background-color: #686de0;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    font-size: 25px;
+    color: black;
+}
+.button2 :hover{
+    color: #f0e9e9;
+}
+.ref{
+    text-decoration: none;
+}
+.watch_later{
+    width: 1660px;
+    height: 760px;
+    margin: 200px;
+    
+}
+.watch{
+    color: #ffffff;
+    font-size: 50px;
+    padding: auto;
+}
+.more_watch {
+    text-align: right;
+    margin-right: 150px;
+    font-size: 20px;
+    margin-left: 400px;
+    padding-top: 18px;
+}
+.watch_text {
+    margin-bottom: 46px;
+   display: flex;
+}
+.card2 {
+    width: 420px;
+    height: 655px;
+    background-color: rgb(9, 8, 88);
+    text-align: center;
+    box-shadow:0 0 20px #555;
+    border-radius: 20px;
+    
+}
+.mor {
+    background-color: rgb(9, 8, 88);
+    text-align: center;
+    margin: 30px auto;
+}
+.button3 {
+    width: 331.37px;
+    height: 65px;
+    background-color: #686de0;
+    margin: auto;
+    text-align: center;
+    padding: 15px;
+    font-size: 25px;
+    color: black;
+}
+.button3 :hover{
+    color: #f0e9e9;
+}
+.teg{
+    text-decoration: none;
+}
+.see {
+    display: flex;
+}
